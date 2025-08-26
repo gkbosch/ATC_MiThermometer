@@ -1,4 +1,5 @@
 // Main sketch for ESP32-S3: SSD1306 display, LittleFS logging, web server with Highcharts, CSV download/erase
+//gkb 8-26025
 #include <Arduino.h>
 #include <Adafruit_MAX31855.h>
 #include <Adafruit_GFX.h>
